@@ -49,6 +49,8 @@ header {
 }
 
 .content-preview {
+  height: 80%;
+  width: 80%;
   padding: 20px;
   background: #EAEAEA;
 }
@@ -61,4 +63,3 @@ header {
 footer {
   margin-top: 80px;
 }
-
