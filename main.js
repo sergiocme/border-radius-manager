@@ -5,5 +5,4 @@ const backgroundColorInput = document.getElementById('background-color');
 
 heightInput.value = getComputedStyle(contentPreview).height;
 widthInput.value = getComputedStyle(contentPreview).width;
-backgroundColorInput.value = getComputedStyle(contentPreview).background;
-
+backgroundColorInput.value = getComputedStyle(contentPreview).backgroundColor;
